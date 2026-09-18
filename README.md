@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="neuronconstellation.png" width="100%" alt="Neuron microscopy banner">
+  <img src="neuronconstellation.png" width="75%" alt="Neuron microscopy banner">
 </p>
 
 <p align="center">
@@ -25,15 +25,15 @@ ___
 
 > *"For the things we have to learn before we can do them, we learn by doing them."*
 > 
-> - Aristotle 
+> Aristotle 
 
 > *"What I cannot create, I do not understand."*
 >
-> - Richard Feynman 
+> Richard Feynman 
 
 > *"The purpose of computing is insight, not numbers."*
 > 
-> - Richard Hamming 
+> Richard Hamming 
 
 
 
