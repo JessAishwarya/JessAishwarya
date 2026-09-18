@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="neuronconstellation.png" width="75%" alt="Neuron microscopy banner">
+  <img src="neuronconstellation.png" width="100%" height="75%" alt="Neuron microscopy banner">
 </p>
 
 <p align="center">
