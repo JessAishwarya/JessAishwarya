@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="neuronconstellation.png" width="100%" alt="Neuron microscopy banner">
+</p>
+
+<p align="center">
+  <sub>Image credit: Duke University · <a href="https://medschool.duke.edu/news/star-shaped-brain-cells-orchestrate-neural-connections">Source</a></sub>
+</p>
+
 # Hi, I'm Jessica. 
 
 I'm a pre-med student at the University of Texas at Austin studying Chemistry and Health & Society, with a minor in Statistics and Data Science. I want to be a great doctor someday!
